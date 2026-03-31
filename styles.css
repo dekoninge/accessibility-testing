@@ -1,6 +1,12 @@
+
 button::after
 {
     content: " (Click me!)";
     font-size: 0.8em;
     color: gray;
+}
+body
+{
+    background-color: black;
+    color: white;
 }
